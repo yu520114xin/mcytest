@@ -34,6 +34,7 @@
 
 }
 /**
+  你好
   GCD中的延迟执行
    参数说明:
    队列:决定blcok里面的任务在哪个线程中执行 dispatch_get_main_queue() 表示在主线程中执行
