@@ -104,7 +104,7 @@
 //中文转码
 -(void)other
 {
-    //01 确定url
+    //01 确定url1
     //01-1
     NSString *urlStr = @"http://120.25.226.186:32812/login2?username=小码哥&pwd=520it&type=JSON";
     //01-2中文转码处理
